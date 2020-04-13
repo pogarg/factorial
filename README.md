@@ -1,2 +1,2 @@
 # factorial
-calculating factorial from json data
+calculating factorial from json input
